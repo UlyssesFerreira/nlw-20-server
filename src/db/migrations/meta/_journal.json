@@ -15,6 +15,13 @@
       "when": 1752687637699,
       "tag": "0001_gray_thaddeus_ross",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752771566639,
+      "tag": "0002_kind_living_tribunal",
+      "breakpoints": true
     }
   ]
 }
